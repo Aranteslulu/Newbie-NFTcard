@@ -34,7 +34,7 @@ body {
     background-color: var(--clr-very-dark-shadow);
     border-radius: 15px;
     width: 20em;
-    height: 32.5em;
+    height: 32.5vh;
     position: fixed;
     display: flex;
     justify-content: center;
