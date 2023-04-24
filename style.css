@@ -162,4 +162,5 @@ span:hover{
 .attribution {
     position: fixed;
     bottom: 10px;
+    color: var(--clr-soft-blue);
 }
